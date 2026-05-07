@@ -1,3 +1,5 @@
+// In this ques we will create a basic HTML Parser with extra blanks also removed
+
 #include <stdio.h>
 #include <string.h>
 
